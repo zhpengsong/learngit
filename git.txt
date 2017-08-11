@@ -1,6 +1,2 @@
 iiiigit test yyyy 222222 dev 2222
-
-master update
-
-creat a new feature1
-
+dev manager
